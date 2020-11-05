@@ -14,9 +14,8 @@ script/index.js内でfetchしているdata（都道府県別の人口データ�
 2. CORSが解除されたchromeが立ち上がるので、そのブラウザで開発する
 
 #### windows
-1. ターミナルを開き、以下のコマンドを入力する。
-`"C:\Program Files (x86)\Google\Chrome\Application\chrome.exe" --disable-web-security --user-data-dir="C://Chrome dev session"`
-2. CORSが解除されたchromeが立ち上がるので、そのブラウザで開発する
+以下を参照し、CORS制限を解除する。
+https://blog-shika.biz/?p=69
 
 ### safariで開発する場合(macのみ)
 以下を参照し、CORS制限を解除する。
