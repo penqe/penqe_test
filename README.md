@@ -10,7 +10,7 @@ script/index.js内でfetchしているdata（都道府県別の人口データ�
 
 #### mac
 1. ターミナルを開き、以下のコマンドを入力する。
-`open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_sess_1" --disable-web-security"`
+`open -n -a /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome --args --user-data-dir="/tmp/chrome_dev_sess_1" --disable-web-security`
 2. CORSが解除されたchromeが立ち上がるので、そのブラウザで開発する
 
 #### windows
